@@ -374,7 +374,7 @@ python app.py
 
 http://localhost:5000
 
-# Detector de Phishing Inteligente – MVP Entrega da – C3
+# Detector de Phishing Inteligente – MVP Entrega da C3
 
 #app.py - Detector de Phishing Inteligente (MVP)
 import os
